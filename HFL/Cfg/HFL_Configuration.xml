@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<HFL_Configuration>
+	<HFL_Data>
+		<HFLElement>
+			<Signal>PFC3PhaseVoltCMes</Signal>
+			<CCPEvent>2</CCPEvent>
+			<BufferSize>650</BufferSize>
+			<OperationMode>HFL_OPERATION_MODE_TRIGGERED</OperationMode>
+		</HFLElement>
+		<HFLElement>
+			<Signal>PFC3PhaseVoltAMes</Signal>
+			<CCPEvent>3</CCPEvent>
+			<BufferSize/>
+			<OperationMode/>
+		</HFLElement>
+		<HFLElement>
+			<Signal>PFC3PDCLinkVoltMes</Signal>
+			<CCPEvent>4</CCPEvent>
+			<BufferSize/>
+			<OperationMode/>
+		</HFLElement>
+	</HFL_Data>
+</HFL_Configuration>

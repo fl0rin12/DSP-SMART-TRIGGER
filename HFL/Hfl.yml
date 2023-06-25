@@ -1,0 +1,46 @@
+units:
+- !unit
+  name: HFL
+  source:
+  - HFL\Src\Hfl.c
+  includes:
+  - HFL\Src
+  - HFL\Cfg
+
+  datagen:
+  - !datagen
+    datasource: HFL\Cfg\HFL_Configuration.xml
+    node: AFE
+    templates:
+    - Hfl\Cfg\Templates\Hfl_Cfg.c
+    - Hfl\Cfg\Templates\Hfl_Cfg.h
+    scripts:
+    - Hfl\Scripts\Hfl_generator.py
+  units:
+  - !unit
+    name: UTEST
+    includes:
+    - HFL\Src
+    - HFL\Cfg
+    - HFL\Stub\Extra
+    source:
+    # - HFL\Stub\missing.c
+    stub_headers:
+    # - HFL\Stub\EcuM.h
+    - HFL\Stub\Ccp.h
+    - HFL\Stub\interrupt.h
+    - HFL\Stub\epwm.h
+    - HFL\Stub\driverlib.h
+    # - HFL\Stub\BTimeMgt.h
+    # - HFL\Stub\Dem.h
+    # - HFL\Stub\HwMon.h
+    # - HFL\Stub\AdcIf_Cfg.h
+    # - HFL\Stub\PwmIf_Cfg.h
+    # - HFL\Stub\HwCfg.h
+    # - HFL\Stub\GridEval.h
+    # - HFL\Stub\Com.h
+    # - HFL\Stub\Meas.h
+    unit_tests:
+    - HFL\Utest\hfl_utest_utility.py
+    - HFL\Utest\hfl_utest.py
+

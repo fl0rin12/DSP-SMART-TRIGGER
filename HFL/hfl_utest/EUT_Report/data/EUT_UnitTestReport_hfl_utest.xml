@@ -1,0 +1,341 @@
+<testsuite name="nosetests" tests="18" errors="0" failures="0" skip="0">
+  <testcase classname="__main__" name="test_Hfl_Init_VerifyThatMemoryIsInitialized" time="0.033">
+    <system-err>Traceback (most recent call last):
+  File "_ctypes/callbacks.c", line 232, in 'calling callback function'
+  File "C:\toolbox\eut\eut_runner\nose\test_runner.py", line 50, in __call__
+    raise Exception("The function: "+ str(self.func.__name__)+ " is not stubbed!")
+Exception: The function: Interrupt_disable is not stubbed!
+</system-err>
+  </testcase>
+  <testcase classname="__main__" name="test_Hfl_MFProcessTransmission_LogState_Not_Stopped" time="0.039">
+    <system-err>Traceback (most recent call last):
+  File "_ctypes/callbacks.c", line 232, in 'calling callback function'
+  File "C:\toolbox\eut\eut_runner\nose\test_runner.py", line 50, in __call__
+    raise Exception("The function: "+ str(self.func.__name__)+ " is not stubbed!")
+Exception: The function: Interrupt_disable is not stubbed!
+</system-err>
+  </testcase>
+  <testcase classname="__main__" name="test_Hfl_MFProcessTransmission_LogState_Stopped_And_IsrState_Enabled" time="0.094">
+    <system-err>Traceback (most recent call last):
+  File "_ctypes/callbacks.c", line 232, in 'calling callback function'
+  File "C:\toolbox\eut\eut_runner\nose\test_runner.py", line 50, in __call__
+    raise Exception("The function: "+ str(self.func.__name__)+ " is not stubbed!")
+Exception: The function: Interrupt_disable is not stubbed!
+Traceback (most recent call last):
+  File "_ctypes/callbacks.c", line 232, in 'calling callback function'
+  File "C:\toolbox\eut\eut_runner\nose\test_runner.py", line 50, in __call__
+    raise Exception("The function: "+ str(self.func.__name__)+ " is not stubbed!")
+Exception: The function: Interrupt_disable is not stubbed!
+</system-err>
+  </testcase>
+  <testcase classname="__main__" name="test_Hfl_MFProcessTransmission_LogState_Stopped_And_IsrState_Disabled" time="0.081">
+    <system-err>Traceback (most recent call last):
+  File "_ctypes/callbacks.c", line 232, in 'calling callback function'
+  File "C:\toolbox\eut\eut_runner\nose\test_runner.py", line 50, in __call__
+    raise Exception("The function: "+ str(self.func.__name__)+ " is not stubbed!")
+Exception: The function: Interrupt_disable is not stubbed!
+Traceback (most recent call last):
+  File "_ctypes/callbacks.c", line 232, in 'calling callback function'
+  File "C:\toolbox\eut\eut_runner\nose\test_runner.py", line 50, in __call__
+    raise Exception("The function: "+ str(self.func.__name__)+ " is not stubbed!")
+Exception: The function: ccpDaq is not stubbed!
+</system-err>
+  </testcase>
+  <testcase classname="__main__" name="test_Hfl_MFProcessTransmission_LogState_Stopped_And_IsrState_Disabled_And_Buff_Index_Less_than_Max" time="0.084">
+    <system-err>Traceback (most recent call last):
+  File "_ctypes/callbacks.c", line 232, in 'calling callback function'
+  File "C:\toolbox\eut\eut_runner\nose\test_runner.py", line 50, in __call__
+    raise Exception("The function: "+ str(self.func.__name__)+ " is not stubbed!")
+Exception: The function: Interrupt_disable is not stubbed!
+Traceback (most recent call last):
+  File "_ctypes/callbacks.c", line 232, in 'calling callback function'
+  File "C:\toolbox\eut\eut_runner\nose\test_runner.py", line 50, in __call__
+    raise Exception("The function: "+ str(self.func.__name__)+ " is not stubbed!")
+Exception: The function: ccpDaq is not stubbed!
+</system-err>
+  </testcase>
+  <testcase classname="__main__" name="test_Hfl_MFProcessTransmission_LogState_Stopped_And_IsrState_Disabled_And_Buff_Index_Is_Max" time="0.079">
+    <system-err>Traceback (most recent call last):
+  File "_ctypes/callbacks.c", line 232, in 'calling callback function'
+  File "C:\toolbox\eut\eut_runner\nose\test_runner.py", line 50, in __call__
+    raise Exception("The function: "+ str(self.func.__name__)+ " is not stubbed!")
+Exception: The function: Interrupt_disable is not stubbed!
+Traceback (most recent call last):
+  File "_ctypes/callbacks.c", line 232, in 'calling callback function'
+  File "C:\toolbox\eut\eut_runner\nose\test_runner.py", line 50, in __call__
+    raise Exception("The function: "+ str(self.func.__name__)+ " is not stubbed!")
+Exception: The function: ccpDaq is not stubbed!
+</system-err>
+  </testcase>
+  <testcase classname="__main__" name="test_Hfl_MainFunctionStartedbyDefault" time="0.073">
+    <system-err>Traceback (most recent call last):
+  File "_ctypes/callbacks.c", line 232, in 'calling callback function'
+  File "C:\toolbox\eut\eut_runner\nose\test_runner.py", line 50, in __call__
+    raise Exception("The function: "+ str(self.func.__name__)+ " is not stubbed!")
+Exception: The function: Interrupt_disable is not stubbed!
+Traceback (most recent call last):
+  File "_ctypes/callbacks.c", line 232, in 'calling callback function'
+  File "C:\toolbox\eut\eut_runner\nose\test_runner.py", line 50, in __call__
+    raise Exception("The function: "+ str(self.func.__name__)+ " is not stubbed!")
+Exception: The function: Interrupt_enable is not stubbed!
+</system-err>
+  </testcase>
+  <testcase classname="__main__" name="test_Hfl_MainFunctionStartedOperationMode" time="0.182">
+    <system-err>Traceback (most recent call last):
+  File "_ctypes/callbacks.c", line 232, in 'calling callback function'
+  File "C:\toolbox\eut\eut_runner\nose\test_runner.py", line 50, in __call__
+    raise Exception("The function: "+ str(self.func.__name__)+ " is not stubbed!")
+Exception: The function: Interrupt_disable is not stubbed!
+Traceback (most recent call last):
+  File "_ctypes/callbacks.c", line 232, in 'calling callback function'
+  File "C:\toolbox\eut\eut_runner\nose\test_runner.py", line 50, in __call__
+    raise Exception("The function: "+ str(self.func.__name__)+ " is not stubbed!")
+Exception: The function: EPWM_clearEventTriggerInterruptFlag is not stubbed!
+Traceback (most recent call last):
+  File "_ctypes/callbacks.c", line 232, in 'calling callback function'
+  File "C:\toolbox\eut\eut_runner\nose\test_runner.py", line 50, in __call__
+    raise Exception("The function: "+ str(self.func.__name__)+ " is not stubbed!")
+Exception: The function: Interrupt_clearACKGroup is not stubbed!
+Traceback (most recent call last):
+  File "_ctypes/callbacks.c", line 232, in 'calling callback function'
+  File "C:\toolbox\eut\eut_runner\nose\test_runner.py", line 50, in __call__
+    raise Exception("The function: "+ str(self.func.__name__)+ " is not stubbed!")
+Exception: The function: Interrupt_enable is not stubbed!
+</system-err>
+  </testcase>
+  <testcase classname="__main__" name="test_Hfl_MainFunctionStartedOperationMode1" time="0.121">
+    <system-err>Traceback (most recent call last):
+  File "_ctypes/callbacks.c", line 232, in 'calling callback function'
+  File "C:\toolbox\eut\eut_runner\nose\test_runner.py", line 50, in __call__
+    raise Exception("The function: "+ str(self.func.__name__)+ " is not stubbed!")
+Exception: The function: Interrupt_disable is not stubbed!
+Traceback (most recent call last):
+  File "_ctypes/callbacks.c", line 232, in 'calling callback function'
+  File "C:\toolbox\eut\eut_runner\nose\test_runner.py", line 50, in __call__
+    raise Exception("The function: "+ str(self.func.__name__)+ " is not stubbed!")
+Exception: The function: EPWM_clearEventTriggerInterruptFlag is not stubbed!
+Traceback (most recent call last):
+  File "_ctypes/callbacks.c", line 232, in 'calling callback function'
+  File "C:\toolbox\eut\eut_runner\nose\test_runner.py", line 50, in __call__
+    raise Exception("The function: "+ str(self.func.__name__)+ " is not stubbed!")
+Exception: The function: Interrupt_clearACKGroup is not stubbed!
+</system-err>
+  </testcase>
+  <testcase classname="__main__" name="test_Hfl_MainFunctionStartedOperationMode7" time="0.174">
+    <system-err>Traceback (most recent call last):
+  File "_ctypes/callbacks.c", line 232, in 'calling callback function'
+  File "C:\toolbox\eut\eut_runner\nose\test_runner.py", line 50, in __call__
+    raise Exception("The function: "+ str(self.func.__name__)+ " is not stubbed!")
+Exception: The function: Interrupt_disable is not stubbed!
+Traceback (most recent call last):
+  File "_ctypes/callbacks.c", line 232, in 'calling callback function'
+  File "C:\toolbox\eut\eut_runner\nose\test_runner.py", line 50, in __call__
+    raise Exception("The function: "+ str(self.func.__name__)+ " is not stubbed!")
+Exception: The function: EPWM_clearEventTriggerInterruptFlag is not stubbed!
+Traceback (most recent call last):
+  File "_ctypes/callbacks.c", line 232, in 'calling callback function'
+  File "C:\toolbox\eut\eut_runner\nose\test_runner.py", line 50, in __call__
+    raise Exception("The function: "+ str(self.func.__name__)+ " is not stubbed!")
+Exception: The function: Interrupt_clearACKGroup is not stubbed!
+Traceback (most recent call last):
+  File "_ctypes/callbacks.c", line 232, in 'calling callback function'
+  File "C:\toolbox\eut\eut_runner\nose\test_runner.py", line 50, in __call__
+    raise Exception("The function: "+ str(self.func.__name__)+ " is not stubbed!")
+Exception: The function: Interrupt_enable is not stubbed!
+</system-err>
+  </testcase>
+  <testcase classname="__main__" name="test_Hfl_MainFunctionStartedOperationMode8" time="0.211">
+    <system-err>Traceback (most recent call last):
+  File "_ctypes/callbacks.c", line 232, in 'calling callback function'
+  File "C:\toolbox\eut\eut_runner\nose\test_runner.py", line 50, in __call__
+    raise Exception("The function: "+ str(self.func.__name__)+ " is not stubbed!")
+Exception: The function: Interrupt_disable is not stubbed!
+Traceback (most recent call last):
+  File "_ctypes/callbacks.c", line 232, in 'calling callback function'
+  File "C:\toolbox\eut\eut_runner\nose\test_runner.py", line 50, in __call__
+    raise Exception("The function: "+ str(self.func.__name__)+ " is not stubbed!")
+Exception: The function: EPWM_clearEventTriggerInterruptFlag is not stubbed!
+Traceback (most recent call last):
+  File "_ctypes/callbacks.c", line 232, in 'calling callback function'
+  File "C:\toolbox\eut\eut_runner\nose\test_runner.py", line 50, in __call__
+    raise Exception("The function: "+ str(self.func.__name__)+ " is not stubbed!")
+Exception: The function: Interrupt_clearACKGroup is not stubbed!
+</system-err>
+  </testcase>
+  <testcase classname="__main__" name="test_Hfl_MainFunctionStartedOperationMode9" time="0.221">
+    <system-err>Traceback (most recent call last):
+  File "_ctypes/callbacks.c", line 232, in 'calling callback function'
+  File "C:\toolbox\eut\eut_runner\nose\test_runner.py", line 50, in __call__
+    raise Exception("The function: "+ str(self.func.__name__)+ " is not stubbed!")
+Exception: The function: Interrupt_disable is not stubbed!
+Traceback (most recent call last):
+  File "_ctypes/callbacks.c", line 232, in 'calling callback function'
+  File "C:\toolbox\eut\eut_runner\nose\test_runner.py", line 50, in __call__
+    raise Exception("The function: "+ str(self.func.__name__)+ " is not stubbed!")
+Exception: The function: EPWM_clearEventTriggerInterruptFlag is not stubbed!
+Traceback (most recent call last):
+  File "_ctypes/callbacks.c", line 232, in 'calling callback function'
+  File "C:\toolbox\eut\eut_runner\nose\test_runner.py", line 50, in __call__
+    raise Exception("The function: "+ str(self.func.__name__)+ " is not stubbed!")
+Exception: The function: Interrupt_clearACKGroup is not stubbed!
+Traceback (most recent call last):
+  File "_ctypes/callbacks.c", line 232, in 'calling callback function'
+  File "C:\toolbox\eut\eut_runner\nose\test_runner.py", line 50, in __call__
+    raise Exception("The function: "+ str(self.func.__name__)+ " is not stubbed!")
+Exception: The function: Interrupt_enable is not stubbed!
+</system-err>
+  </testcase>
+  <testcase classname="__main__" name="test_Hfl_MainFunctionStartedOperationMode2" time="0.806">
+    <system-err>Traceback (most recent call last):
+  File "_ctypes/callbacks.c", line 232, in 'calling callback function'
+  File "C:\toolbox\eut\eut_runner\nose\test_runner.py", line 50, in __call__
+    raise Exception("The function: "+ str(self.func.__name__)+ " is not stubbed!")
+Exception: The function: Interrupt_disable is not stubbed!
+Traceback (most recent call last):
+  File "_ctypes/callbacks.c", line 232, in 'calling callback function'
+  File "C:\toolbox\eut\eut_runner\nose\test_runner.py", line 50, in __call__
+    raise Exception("The function: "+ str(self.func.__name__)+ " is not stubbed!")
+Exception: The function: EPWM_clearEventTriggerInterruptFlag is not stubbed!
+Traceback (most recent call last):
+  File "_ctypes/callbacks.c", line 232, in 'calling callback function'
+  File "C:\toolbox\eut\eut_runner\nose\test_runner.py", line 50, in __call__
+    raise Exception("The function: "+ str(self.func.__name__)+ " is not stubbed!")
+Exception: The function: Interrupt_clearACKGroup is not stubbed!
+</system-err>
+  </testcase>
+  <testcase classname="__main__" name="test_Hfl_MainFunctionDissableInterrupt" time="0.245">
+    <system-err>Traceback (most recent call last):
+  File "_ctypes/callbacks.c", line 232, in 'calling callback function'
+  File "C:\toolbox\eut\eut_runner\nose\test_runner.py", line 50, in __call__
+    raise Exception("The function: "+ str(self.func.__name__)+ " is not stubbed!")
+Exception: The function: Interrupt_disable is not stubbed!
+Traceback (most recent call last):
+  File "_ctypes/callbacks.c", line 232, in 'calling callback function'
+  File "C:\toolbox\eut\eut_runner\nose\test_runner.py", line 50, in __call__
+    raise Exception("The function: "+ str(self.func.__name__)+ " is not stubbed!")
+Exception: The function: Interrupt_disable is not stubbed!
+</system-err>
+  </testcase>
+  <testcase classname="__main__" name="test_Hfl_MainFunctionStartedOperationMode3" time="0.109">
+    <system-err>Traceback (most recent call last):
+  File "_ctypes/callbacks.c", line 232, in 'calling callback function'
+  File "C:\toolbox\eut\eut_runner\nose\test_runner.py", line 50, in __call__
+    raise Exception("The function: "+ str(self.func.__name__)+ " is not stubbed!")
+Exception: The function: Interrupt_disable is not stubbed!
+Traceback (most recent call last):
+  File "_ctypes/callbacks.c", line 232, in 'calling callback function'
+  File "C:\toolbox\eut\eut_runner\nose\test_runner.py", line 50, in __call__
+    raise Exception("The function: "+ str(self.func.__name__)+ " is not stubbed!")
+Exception: The function: EPWM_clearEventTriggerInterruptFlag is not stubbed!
+Traceback (most recent call last):
+  File "_ctypes/callbacks.c", line 232, in 'calling callback function'
+  File "C:\toolbox\eut\eut_runner\nose\test_runner.py", line 50, in __call__
+    raise Exception("The function: "+ str(self.func.__name__)+ " is not stubbed!")
+Exception: The function: Interrupt_clearACKGroup is not stubbed!
+</system-err>
+  </testcase>
+  <testcase classname="__main__" name="test_Hfl_MainFunctionStartedOperationMode4" time="0.224">
+    <system-err>Traceback (most recent call last):
+  File "_ctypes/callbacks.c", line 232, in 'calling callback function'
+  File "C:\toolbox\eut\eut_runner\nose\test_runner.py", line 50, in __call__
+    raise Exception("The function: "+ str(self.func.__name__)+ " is not stubbed!")
+Exception: The function: Interrupt_disable is not stubbed!
+Traceback (most recent call last):
+  File "_ctypes/callbacks.c", line 232, in 'calling callback function'
+  File "C:\toolbox\eut\eut_runner\nose\test_runner.py", line 50, in __call__
+    raise Exception("The function: "+ str(self.func.__name__)+ " is not stubbed!")
+Exception: The function: EPWM_clearEventTriggerInterruptFlag is not stubbed!
+Traceback (most recent call last):
+  File "_ctypes/callbacks.c", line 232, in 'calling callback function'
+  File "C:\toolbox\eut\eut_runner\nose\test_runner.py", line 50, in __call__
+    raise Exception("The function: "+ str(self.func.__name__)+ " is not stubbed!")
+Exception: The function: Interrupt_clearACKGroup is not stubbed!
+</system-err>
+  </testcase>
+  <testcase classname="__main__" name="test_Hfl_MainFunctionStartedOperationMode5" time="0.537">
+    <system-err>Traceback (most recent call last):
+  File "_ctypes/callbacks.c", line 232, in 'calling callback function'
+  File "C:\toolbox\eut\eut_runner\nose\test_runner.py", line 50, in __call__
+    raise Exception("The function: "+ str(self.func.__name__)+ " is not stubbed!")
+Exception: The function: Interrupt_disable is not stubbed!
+Traceback (most recent call last):
+  File "_ctypes/callbacks.c", line 232, in 'calling callback function'
+  File "C:\toolbox\eut\eut_runner\nose\test_runner.py", line 50, in __call__
+    raise Exception("The function: "+ str(self.func.__name__)+ " is not stubbed!")
+Exception: The function: EPWM_clearEventTriggerInterruptFlag is not stubbed!
+Traceback (most recent call last):
+  File "_ctypes/callbacks.c", line 232, in 'calling callback function'
+  File "C:\toolbox\eut\eut_runner\nose\test_runner.py", line 50, in __call__
+    raise Exception("The function: "+ str(self.func.__name__)+ " is not stubbed!")
+Exception: The function: Interrupt_clearACKGroup is not stubbed!
+Traceback (most recent call last):
+  File "_ctypes/callbacks.c", line 232, in 'calling callback function'
+  File "C:\toolbox\eut\eut_runner\nose\test_runner.py", line 50, in __call__
+    raise Exception("The function: "+ str(self.func.__name__)+ " is not stubbed!")
+Exception: The function: ccpDaq is not stubbed!
+Traceback (most recent call last):
+  File "_ctypes/callbacks.c", line 232, in 'calling callback function'
+  File "C:\toolbox\eut\eut_runner\nose\test_runner.py", line 50, in __call__
+    raise Exception("The function: "+ str(self.func.__name__)+ " is not stubbed!")
+Exception: The function: EPWM_clearEventTriggerInterruptFlag is not stubbed!
+Traceback (most recent call last):
+  File "_ctypes/callbacks.c", line 232, in 'calling callback function'
+  File "C:\toolbox\eut\eut_runner\nose\test_runner.py", line 50, in __call__
+    raise Exception("The function: "+ str(self.func.__name__)+ " is not stubbed!")
+Exception: The function: Interrupt_clearACKGroup is not stubbed!
+Traceback (most recent call last):
+  File "_ctypes/callbacks.c", line 232, in 'calling callback function'
+  File "C:\toolbox\eut\eut_runner\nose\test_runner.py", line 50, in __call__
+    raise Exception("The function: "+ str(self.func.__name__)+ " is not stubbed!")
+Exception: The function: Interrupt_enable is not stubbed!
+</system-err>
+  </testcase>
+  <testcase classname="__main__" name="test_Hfl_MainFunctionStartedOperationMode6" time="1.253">
+    <system-err>Traceback (most recent call last):
+  File "_ctypes/callbacks.c", line 232, in 'calling callback function'
+  File "C:\toolbox\eut\eut_runner\nose\test_runner.py", line 50, in __call__
+    raise Exception("The function: "+ str(self.func.__name__)+ " is not stubbed!")
+Exception: The function: Interrupt_disable is not stubbed!
+Traceback (most recent call last):
+  File "_ctypes/callbacks.c", line 232, in 'calling callback function'
+  File "C:\toolbox\eut\eut_runner\nose\test_runner.py", line 50, in __call__
+    raise Exception("The function: "+ str(self.func.__name__)+ " is not stubbed!")
+Exception: The function: EPWM_clearEventTriggerInterruptFlag is not stubbed!
+Traceback (most recent call last):
+  File "_ctypes/callbacks.c", line 232, in 'calling callback function'
+  File "C:\toolbox\eut\eut_runner\nose\test_runner.py", line 50, in __call__
+    raise Exception("The function: "+ str(self.func.__name__)+ " is not stubbed!")
+Exception: The function: Interrupt_clearACKGroup is not stubbed!
+Traceback (most recent call last):
+  File "_ctypes/callbacks.c", line 232, in 'calling callback function'
+  File "C:\toolbox\eut\eut_runner\nose\test_runner.py", line 50, in __call__
+    raise Exception("The function: "+ str(self.func.__name__)+ " is not stubbed!")
+Exception: The function: Interrupt_enable is not stubbed!
+Traceback (most recent call last):
+  File "_ctypes/callbacks.c", line 232, in 'calling callback function'
+  File "C:\toolbox\eut\eut_runner\nose\test_runner.py", line 50, in __call__
+    raise Exception("The function: "+ str(self.func.__name__)+ " is not stubbed!")
+Exception: The function: CPUTimer_getTimerCount is not stubbed!
+Traceback (most recent call last):
+  File "_ctypes/callbacks.c", line 232, in 'calling callback function'
+  File "C:\toolbox\eut\eut_runner\nose\test_runner.py", line 50, in __call__
+    raise Exception("The function: "+ str(self.func.__name__)+ " is not stubbed!")
+Exception: The function: EPWM_clearEventTriggerInterruptFlag is not stubbed!
+Traceback (most recent call last):
+  File "_ctypes/callbacks.c", line 232, in 'calling callback function'
+  File "C:\toolbox\eut\eut_runner\nose\test_runner.py", line 50, in __call__
+    raise Exception("The function: "+ str(self.func.__name__)+ " is not stubbed!")
+Exception: The function: Interrupt_clearACKGroup is not stubbed!
+Traceback (most recent call last):
+  File "_ctypes/callbacks.c", line 232, in 'calling callback function'
+  File "C:\toolbox\eut\eut_runner\nose\test_runner.py", line 50, in __call__
+    raise Exception("The function: "+ str(self.func.__name__)+ " is not stubbed!")
+Exception: The function: EPWM_clearEventTriggerInterruptFlag is not stubbed!
+Traceback (most recent call last):
+  File "_ctypes/callbacks.c", line 232, in 'calling callback function'
+  File "C:\toolbox\eut\eut_runner\nose\test_runner.py", line 50, in __call__
+    raise Exception("The function: "+ str(self.func.__name__)+ " is not stubbed!")
+Exception: The function: Interrupt_clearACKGroup is not stubbed!
+</system-err>
+  </testcase>
+</testsuite>

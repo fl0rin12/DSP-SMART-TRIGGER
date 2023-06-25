@@ -1,0 +1,59 @@
+{
+  "struct": {
+    "test_Hfl_Init_VerifyThatMemoryIsInitialized": [],
+    "test_Hfl_MFProcessTransmission_LogState_Not_Stopped": [],
+    "test_Hfl_MFProcessTransmission_LogState_Stopped_And_IsrState_Enabled": [],
+    "test_Hfl_MFProcessTransmission_LogState_Stopped_And_IsrState_Disabled": [],
+    "test_Hfl_MFProcessTransmission_LogState_Stopped_And_IsrState_Disabled_And_Buff_Index_Less_than_Max": [],
+    "test_Hfl_MFProcessTransmission_LogState_Stopped_And_IsrState_Disabled_And_Buff_Index_Is_Max": [],
+    "test_Hfl_MainFunctionStartedbyDefault": [],
+    "test_Hfl_MainFunctionStartedOperationMode": [],
+    "test_Hfl_MainFunctionStartedOperationMode1": [],
+    "test_Hfl_MainFunctionStartedOperationMode7": [],
+    "test_Hfl_MainFunctionStartedOperationMode8": [],
+    "test_Hfl_MainFunctionStartedOperationMode9": [],
+    "test_Hfl_MainFunctionStartedOperationMode2": [],
+    "test_Hfl_MainFunctionDissableInterrupt": [],
+    "test_Hfl_MainFunctionStartedOperationMode3": [],
+    "test_Hfl_MainFunctionStartedOperationMode4": [],
+    "test_Hfl_MainFunctionStartedOperationMode5": [],
+    "test_Hfl_MainFunctionStartedOperationMode6": []
+  },
+  "env": {
+    "PROJECT_NAME": "",
+    "REQ_DOCUMENT": "",
+    "REQ_ID": "",
+    "TEST_DESCRIPTION": "",
+    "TIME_TO_TEST": "4.566000000000001",
+    "NO_OF_TESTS": "18",
+    "NO_OF_FAILED": "0",
+    "NO_OF_SKIPPED": "0",
+    "TERMINOLOGY": {},
+    "ABREVIATIONS": {},
+    "HW_ENVIRONMENT": [],
+    "FAILED_TESTS": {},
+    "COVERAGE": {
+      "Hfl.c": {
+        "c0": "80/86 (93.0%)",
+        "mcdc": "53/54 (98.1%)",
+        "file": "C:\\Projects\\ygr_oem_ei_00128_stla_obc_sw\\05_Units\\PFC\\__build__\\hfl_utest\\EUT_Report\\data\\EUT_CoverageDetails_Hfl.c.html"
+      },
+      "Sal.c": {
+        "c0": "0/7 (0.0%)",
+        "mcdc": "0/0 (100.0%)",
+        "file": "C:\\Projects\\ygr_oem_ei_00128_stla_obc_sw\\05_Units\\PFC\\__build__\\hfl_utest\\EUT_Report\\data\\EUT_CoverageDetails_Sal.c.html"
+      },
+      "Sal_App_Cfg.c": {
+        "c0": "0/4 (0.0%)",
+        "mcdc": "0/0 (100.0%)",
+        "file": "C:\\Projects\\ygr_oem_ei_00128_stla_obc_sw\\05_Units\\PFC\\__build__\\hfl_utest\\EUT_Report\\data\\EUT_CoverageDetails_Sal_App_Cfg.c.html"
+      },
+      "Sal_Com_Cfg.c": {
+        "c0": "0/4 (0.0%)",
+        "mcdc": "0/0 (100.0%)",
+        "file": "C:\\Projects\\ygr_oem_ei_00128_stla_obc_sw\\05_Units\\PFC\\__build__\\hfl_utest\\EUT_Report\\data\\EUT_CoverageDetails_Sal_Com_Cfg.c.html"
+      }
+    }
+  },
+  "run_error": 0
+}
